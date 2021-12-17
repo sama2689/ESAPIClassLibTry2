@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESAPIClassLibTry2", "ESAPIClassLibTry2.csproj", "{37A7874D-FE16-46D0-B974-E78208C54568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		debugcopy|Any CPU = debugcopy|Any CPU
+		debugcopy|x64 = debugcopy|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A7874D-FE16-46D0-B974-E78208C54568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A7874D-FE16-46D0-B974-E78208C54568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A7874D-FE16-46D0-B974-E78208C54568}.Debug|x64.ActiveCfg = Debug|x64
+		{37A7874D-FE16-46D0-B974-E78208C54568}.Debug|x64.Build.0 = Debug|x64
+		{37A7874D-FE16-46D0-B974-E78208C54568}.debugcopy|Any CPU.ActiveCfg = debugcopy|Any CPU
+		{37A7874D-FE16-46D0-B974-E78208C54568}.debugcopy|Any CPU.Build.0 = debugcopy|Any CPU
+		{37A7874D-FE16-46D0-B974-E78208C54568}.debugcopy|x64.ActiveCfg = debugcopy|x64
+		{37A7874D-FE16-46D0-B974-E78208C54568}.debugcopy|x64.Build.0 = debugcopy|x64
+		{37A7874D-FE16-46D0-B974-E78208C54568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A7874D-FE16-46D0-B974-E78208C54568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A7874D-FE16-46D0-B974-E78208C54568}.Release|x64.ActiveCfg = Release|x64
+		{37A7874D-FE16-46D0-B974-E78208C54568}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856B59AD-1156-4723-8ED9-9E144A273433}
+	EndGlobalSection
+EndGlobal
